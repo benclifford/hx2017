@@ -14,16 +14,20 @@ https://docs.haskellstack.org/en/stable/README/#how-to-install
 
 2. Get this repository onto your laptop. For example:
 
-  git clone https://github.com/benclifford/hx2017.git
+```
+$ git clone https://github.com/benclifford/hx2017.git
+```
 
 3. Build the pre-requisites test code:
 
-  stack build
-  stack exec check-tutorial
+```
+$ stack build
+$ stack exec check-tutorial
+```
 
-  You should see the message
-    Congratulations! Haskell Exchange 2017 tutorial setup is complete.
-  on your console.
+You should see the message
+`Congratulations! Haskell Exchange 2017 tutorial setup is complete.`
+on your console.
 
 If you have problems with the above, ideally resolve them before the
 tutorial - if you need help, email benc@cqx.ltd.uk
