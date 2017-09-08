@@ -1,10 +1,9 @@
 Haskell eXchange 2017 Hands-on Parser Tutorial
 ==============================================
 
- * 0. Setup ahead of time
-
 If you're participating in this tutorial, you should bring
-a laptop which can build Haskell code.
+a laptop which can build Haskell code. The following steps
+should help you get your laptop into that state.
 
 Ideally do this setup step before coming to Haskell
 eXchange. It should take about half an hour (depending on
