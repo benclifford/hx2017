@@ -26,7 +26,7 @@ $ stack exec check-tutorial
 ```
 
 You should see the message
-`Congratulations! Haskell Exchange 2017 tutorial setup is complete.`
+`Congratulations! Haskell eXchange 2017 tutorial setup is complete.`
 on your console.
 
 If you have problems with the above, ideally resolve them before the
@@ -35,5 +35,5 @@ tutorial - if you need help, email benc@cqx.ltd.uk
 This will both verify that your installation works, and also download some
 Haskell packages that are needed during the tutorial. This will save
 time when you come to use them during the tutorial so that you do not
-need to download them over the Haskell Exchange wifi. So please follow
+need to download them over the Haskell eXchange wifi. So please follow
 these steps even if you know your 'stack' installation already works.
