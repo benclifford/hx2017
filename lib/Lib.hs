@@ -12,3 +12,10 @@ p parser input =
     Failure f -> error (show (_errDoc f))
     Success n -> n
 
+pfails :: Parser t -> String -> ()
+pfails parser input =
+  case (parseString parser mempty input)
+   of
+    Failure f -> ()
+    Success n -> error "This parser was supposed to fail"
+
