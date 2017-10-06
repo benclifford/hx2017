@@ -1,8 +1,6 @@
-module Main where
+module Lib where
 
 import Text.Trifecta
-
-main = putStrLn "Congratulations! Haskell eXchange 2017 tutorial setup is complete."
 
 -- | This is a helper function to make the repl easier to use.
 --   It wraps a call to trifecta's parse function and massages
